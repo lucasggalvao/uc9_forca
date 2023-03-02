@@ -1,0 +1,15 @@
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\uc9_forca.exe
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\uc9_forca.deps.json
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\uc9_forca.runtimeconfig.json
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\uc9_forca.dll
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\ref\uc9_forca.dll
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\bin\Debug\net6.0\uc9_forca.pdb
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.csproj.AssemblyReference.cache
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.AssemblyInfoInputs.cache
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.AssemblyInfo.cs
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.csproj.CoreCompileInputs.cache
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.dll
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\ref\uc9_forca.dll
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.pdb
+C:\Users\lucas.ggalvao\source\repos\uc9_forca\uc9_forca\obj\Debug\net6.0\uc9_forca.genruntimeconfig.cache
